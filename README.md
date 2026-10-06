@@ -1,6 +1,6 @@
 # 👋🏽 Hi, I'm Chukwuamaka Nwachukwu
 
-### 💻 Developer • 🎨 Artist • 🤖 Aspiring Robotics Engineer
+### 💻 Full Stack Developer • 🎨 Artist • 🤖 Aspiring Robotics Engineer
 
 I'm a creative developer who enjoys turning ideas into **web applications, interactive experiences, and eventually intelligent machines**.
 
