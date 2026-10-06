@@ -8,21 +8,21 @@ I love the combination of **technology + creativity**, and I'm constantly learni
 
 ---
 
-### 🚀 What I'm Building
+### 🚀 What I've Built
 
 🛍️ **CANLight Clothing** — a modern fashion e-commerce platform built with React, Firebase, Redux, and payment integrations.
 
 🧠 **MHA Quiz** — an interactive quiz project inspired by *My Hero Academia*, combining my love for technology and fun learning experiences.
 
-🎨 **CANimation** — my creative space for art, characters, and animation.
+🎨 **CAN_WEBSITE** — a portfolio is built for myself summing up my current abilities and works.
 
-🤖 **CANRobotics** — my long-term journey toward robotics, AI, automation, and intelligent systems.
+
 
 ---
 
 ### 🧰 Tech I'm Exploring
 
-`React` `JavaScript` `Firebase` `Redux` `Git` `Vite` `PWA`
+`React` `JavaScript` `Firebase` `React Native` `Git` `Vite` `PWA` `Kubernetes` `Docker` `Jenkins`
 
 Currently diving deeper into **software engineering, testing, AI, robotics, and electronics.**
 
@@ -30,7 +30,7 @@ Currently diving deeper into **software engineering, testing, AI, robotics, and 
 
 ### 🎯 My Goal
 
-To become a **Robotics Engineer and Creative Technologist** who can bring ideas from imagination → code → the real world.
+To become a **Full Stack Developer, Robotics Engineer and Cartoonist** who can bring ideas from imagination → code → the real world.
 
 > **Code. Create. Learn. Build. 🤖🎨💻**
 
@@ -38,7 +38,8 @@ To become a **Robotics Engineer and Creative Technologist** who can bring ideas 
 
 ### 🌐 Let's Connect
 
-**GitHub:** [@chukwuamaka-nwachukwu](https://github.com/chukwuamaka-nwachukwu)
+**LinkedIn:** (https://ng.linkedin.com/in/chukwuamaka-nwachukwu)
+**Email** (chukwuamakanwachukwu@outlook.com)
 
 <div align="center">
 
